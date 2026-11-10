@@ -1,0 +1,6 @@
+{
+  "name": "SQLite AI Agent & SQL Studio",
+  "description": "Natural language to safe SQL query agent and business executive summarizer for SQLite with Gemini and LangChain Python scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
